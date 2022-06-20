@@ -1,0 +1,10 @@
+{
+  "name": "Coco Pops Mini: 8575",
+  "external_url": "http://localhost:3000/0x738d1f774c539311c66e7f4de6dceef607364c28/0",
+  "image": "https://raw.githubusercontent.com/collinsherriff/chrs/main/1.jpg",
+  "description": "Coco pops are best served with milk and a good coffee.",
+ "attributes": [
+    { "trait_type": "Food", "value": "Breakfast" },
+    { "trait_type": "Shape", "value": "Round" }
+  ]
+}
