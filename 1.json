@@ -1,10 +1,10 @@
 {
-  "name": "Coco Pops Mini: 8575",
+  "name": "Checkers Golden Trolley NFT",
   "external_url": "http://localhost:3000/0x738d1f774c539311c66e7f4de6dceef607364c28/0",
   "image": "https://raw.githubusercontent.com/collinsherriff/chrs/main/1.jpg",
-  "description": "Coco pops are best served with milk and a good coffee.",
+  "description": "The Checkers Golden Trolley NFT will provide a R4,000 grocery voucher each month for a year. Each day a unique code will be displayable by the owner of the NFT for free delivery.",
  "attributes": [
-    { "trait_type": "Food", "value": "Breakfast" },
-    { "trait_type": "Shape", "value": "Round" }
+    { "trait_type": "Amount", "value": "R4,000 per month" },
+    { "trait_type": "Type", "value": "NFT" }
   ]
 }
