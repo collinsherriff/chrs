@@ -1,10 +1,10 @@
 {
-  "name": "Borvil Mini: 8934",
+  "name": "Checkers Xtra Savings R100k NFT",
   "external_url": "http://localhost:3000/0x738d1f774c539311c66e7f4de6dceef607364c28/0",
   "image": "https://raw.githubusercontent.com/collinsherriff/chrs/main/0.jpg",
-  "description": "Bovrils is the best on toasted bread.",
+  "description": "The Checkers Xtra Savings NFT will include a R100,000 cash prize.",
  "attributes": [
-    { "trait_type": "Spread", "value": "Bovril" },
-    { "trait_type": "Color", "value": "Dark" }
+    { "trait_type": "Amount", "value": "R100,000.00" },
+    { "trait_type": "Type", "value": "NFT" }
   ]
 }
