@@ -1,0 +1,10 @@
+{
+  "name": "Checkers Sixty60 NFT",
+  "external_url": "http://localhost:3000/0x738d1f774c539311c66e7f4de6dceef607364c28/0",
+  "image": "https://raw.githubusercontent.com/collinsherriff/chrs/main/2.jpg",
+  "description": "This NFT that grants free Checkers Sixty60 delivery for a year.",
+ "attributes": [
+    { "trait_type": "Amount", "value": "R4,000 per month" },
+    { "trait_type": "Type", "value": "NFT" }
+  ]
+}
