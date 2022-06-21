@@ -1,0 +1,10 @@
+{
+  "name": "Checkers NFTs",
+  "external_url": "http://localhost:3000/0x738d1f774c539311c66e7f4de6dceef607364c28/0",
+  "image": "https://raw.githubusercontent.com/collinsherriff/chrs/main/0.jpg",
+  "description": "Checkers unique NFT campaign.",
+ "attributes": [
+    { "trait_type": "", "value": "" },
+    { "trait_type": "", "value": "" }
+  ]
+}
